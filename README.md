@@ -4,21 +4,11 @@ https://hackpad.hackclub.com/guide
 ----------------------------------
 File Structure:- 
 
---3D Model
-
-  -HackPad with PCB.3mf
-  
-  -HackPad without PCB.3mf
-  
---Firmware
-
-  -hackpad_default.uf2
-  
---MacroPadPackage(packages for the footprints and schematics)
-
---Schem and PCB Resources
-
-  -hackpad.kicad_pro
+-- Not Required
+-- Production
+ - Model
+ - Gerber File
+ - Compiled Firmware
   
 ----------------------------------
 Schematic:-
