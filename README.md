@@ -3,26 +3,28 @@ https://hackpad.hackclub.com/guide
 
 ----------------------------------
 File Structure:- 
+-- Images
 
 -- Not Required
 
 -- Production
  - Model
- - Gerber File
+ - Gerber(zip)
  - Compiled Firmware
+ - PCB
   
 ----------------------------------
 Schematic:-
 <img width="968" height="506" alt="Screenshot 2026-06-06 214640" src="https://github.com/user-attachments/assets/ad78a2a4-ebae-4ffa-ba45-c786c8beb1ca" />
 
-PCB:-
+PCB Design:-
 <img width="1130" height="797" alt="image" src="https://github.com/user-attachments/assets/3a211b52-9a57-4b54-8fad-e0e1ae80b2ab" />
 
 
-Case with Lid:-
+Case:-
 <img width="1246" height="687" alt="Screenshot 2026-06-06 214657" src="https://github.com/user-attachments/assets/791125c0-da80-432d-a37e-9a8de861bdaa" />
 
-Case without Lid:-
+PCB Model:-
 <img width="1216" height="623" alt="Screenshot 2026-06-06 214709" src="https://github.com/user-attachments/assets/9e5d4424-9d66-4762-991a-4d72fe4668f4" />
 
 BOM:-
