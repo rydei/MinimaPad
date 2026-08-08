@@ -2,6 +2,13 @@ Based on HackClub's MacroPad Guide.
 https://hackpad.hackclub.com/guide
 
 ----------------------------------
+-Images Include Some Screenshots of my work.
+
+-Not Required Folder includes files like uncompiled firmware and project files from kicad.
+
+-Production folder includes everything about the hackpad- its 3d model ,compiled firmware ,pcb with schematic and gerber files.
+
+----------------------------------
 File Structure:- 
 -- Images
 
@@ -22,10 +29,12 @@ PCB Design:-
 
 
 Case:-
-<img width="1246" height="687" alt="Screenshot 2026-06-06 214657" src="https://github.com/user-attachments/assets/791125c0-da80-432d-a37e-9a8de861bdaa" />
+<img width="752" height="628" alt="Screenshot 2026-08-08 175845" src="https://github.com/user-attachments/assets/00164f0a-5200-4ab6-945d-f6d32fc4f37c" />
+
 
 PCB Model:-
-<img width="1216" height="623" alt="Screenshot 2026-06-06 214709" src="https://github.com/user-attachments/assets/9e5d4424-9d66-4762-991a-4d72fe4668f4" />
+<img width="1046" height="618" alt="Screenshot 2026-08-08 175951" src="https://github.com/user-attachments/assets/28a81ac7-16f5-49c4-858e-d81cd81d42cd" />
+
 
 BOM:-
 
