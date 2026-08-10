@@ -16,7 +16,7 @@ File Structure:-
 -- Not Required
 
 -- Production
- - Model
+ - CAD
  - Gerber(zip)
  - Compiled Firmware
  - PCB
