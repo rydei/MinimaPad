@@ -30,7 +30,8 @@ PCB Design:-
 
 
 Case:-
-<img width="752" height="628" alt="Screenshot 2026-08-08 175845" src="https://github.com/user-attachments/assets/00164f0a-5200-4ab6-945d-f6d32fc4f37c" />
+<img width="1067" height="726" alt="Screenshot 2026-08-13 223653" src="https://github.com/user-attachments/assets/8f0c0e53-7874-4f11-a838-7b107302945d" />
+
 
 
 PCB Model:-
